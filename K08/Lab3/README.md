@@ -6,7 +6,7 @@
 
 Στο κώδικα του εργαστηρίου θα βρείτε τα παρακάτω αρχεία:
 
-- `faulty_stack.c`: υλοποίηση μια στοίβας, με πολλά memory erros
+- `faulty_stack.c`: υλοποίηση μια στοίβας, με πολλά memory errors
 - `faulty_stack.h`: αναφορές στις συναρτήσεις της στοίβας
 - `test_faulty_stack.c` : unit tests πάνω στις συναρτήσεις της στοίβας
 - `mem_errors.c`: main() συνάρτηση με διάφορα memory errors
